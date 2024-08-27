@@ -1,0 +1,74 @@
+{
+  "assetVersions": [
+    {
+      "assetId": 7949,
+      "missingDataRate": 0.12485449735449734,
+      "mdModalities": [
+        {
+          "name": "1",
+          "value": "12"
+        },
+        {
+          "name": "2",
+          "value": "23"
+        },
+        {
+          "name": "3",
+          "value": "34"
+        },
+        {
+          "name": "4",
+          "value": "43"
+        },
+        {
+          "name": "5",
+          "value": "54"
+        },
+        {
+          "name": "6",
+          "value": "62"
+        },
+        {
+          "name": "7",
+          "value": "71"
+        },
+        {
+          "name": "81",
+          "value": null
+        },
+        {
+          "name": "82",
+          "value": null
+        },
+        {
+          "name": "83",
+          "value": null
+        },
+        {
+          "name": "9",
+          "value": "91"
+        },
+        {
+          "name": "10",
+          "value": "102"
+        },
+        {
+          "name": "11",
+          "value": null
+        },
+        {
+          "name": "12",
+          "value": "124"
+        },
+        {
+          "name": "13",
+          "value": "131"
+        },
+        {
+          "name": "14",
+          "value": "142"
+        }
+      ]
+    }
+  ]
+}
